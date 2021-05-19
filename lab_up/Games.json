@@ -1,0 +1,32 @@
+[
+  {
+  "type": "Basketball",
+  "participant1": "LA Lakers",
+  "participant2": "Miami Heat",
+  "winner": "LA Lakers",
+  "loser": "Miami Heat",
+  "score": "106:93",
+  "day":"Tuesday",
+  "age1":"children",
+  "age2":"young",
+  "age3":"old",
+  "count1": 4000,
+  "count2":20000,
+  "count3": 9000
+},
+ {
+    "type": "Hockey",
+    "participant1": "Chicago Penguins",
+    "participant2": "Washington Capitals",
+    "winner": "Washington Capitals",
+    "loser": "Chicago Penguins",
+    "score": "3:7",
+    "day":"Thursday",
+    "age1":"children",
+    "age2":"young",
+    "age3":"old",
+    "count1": 5000,
+    "count2":26000,
+    "count3": 13000
+  }
+]

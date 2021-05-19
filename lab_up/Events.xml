@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+
+   <Match type="Kanat" participant1="Russia" participant2="USA"  winner="USA" loser="USSR"
+           day="Monday" age1="children" count1="50" age2="young" count2="2000" age3="old"  count3="100"/>
+    <Races type="F1" participant="Lada Ferrari Ford Seat"   winner="Ford" day="Monday"
+           age1="children" count1="300" age2="young" count2="200" age3="old"  count3="1000"/>
+    <Game type="Football" participant1="Real" participant2="Barcelona" winner="Real" loser="Barcelona"
+          score="3:1" day="Sunday" age1="children" count1="700" age2="young" count2="20000" age3="old"  count3="6000"/>
+    <Game type="Hockey" participant1="Canada" participant2="USA" winner="Canada" loser="USA"
+          score="7:4" day="Thursday" age1="children" count1="500" age2="young" count2="7000" age3="old"  count3="600"/>
+    <Races type="Rally" participant="Peugeot Honda Suzuki Audi"   winner="Peugeot" day="Tuesday"
+           age1="children" count1="50" age2="young" count2="2000" age3="old"  count3="10000"/>
+</events>

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "UFC",
+    "participant1": "Konor McGregor",
+    "participant2": "Khabib Nurmagomedov",
+    "winner": "Khabib Nurmagomedov",
+    "loser": "Konor McGregor",
+    "day":"Wednesday",
+    "age1":"children",
+    "age2":"young",
+    "age3":"old",
+    "count1": 0,
+    "count2":16000,
+    "count3": 7000
+  }
+]
